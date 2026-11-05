@@ -15,31 +15,18 @@ I'm interested in AI/ML, software development, Java, and open-source contributio
 
 ### DBeaver Community
 
-**[Add Snowflake SQL keywords – PR #42652](https://github.com/dbeaver/dbeaver/pull/42652)**
+**1. [Add Snowflake SQL Keywords – PR #42652](https://github.com/dbeaver/dbeaver/pull/42652)**
 
-- Status: Merged ✅
+- **Status:** Merged ✅
 - Added `CLONE`, `COPY`, `USE`, and `WAREHOUSE` to Snowflake SQL keyword highlighting.
 - Contributed to the official [DBeaver repository](https://github.com/dbeaver/dbeaver).
 
-## 📌 Current Contributions
+**2. [Fix Crow's Foot Foreign-Key Cardinality – PR #42654](https://github.com/dbeaver/dbeaver/pull/42654)**
 
-- [DBeaver PR #42654 – Crow's Foot foreign-key cardinality](https://github.com/dbeaver/dbeaver/pull/42654) — Under review.
+- **Status:** Merged ✅
+- Fixed the Crow's Foot ERD relationship cardinality display.
+- Corrected the many-side cardinality from `1..n` to `0..n`.
 
 ## 📫 Connect with me
 
 - GitHub: [@adi567sin-beep](https://github.com/adi567sin-beep)
-
-<!--
-**adi567sin-beep/adi567sin-beep** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
