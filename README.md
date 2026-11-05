@@ -30,3 +30,4 @@ I'm interested in AI/ML, software development, Java, and open-source contributio
 ## 📫 Connect with me
 
 - GitHub: [@adi567sin-beep](https://github.com/adi567sin-beep)
+- leetcode : https://leetcode.com/u/_aditya_s/
